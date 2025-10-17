@@ -1,2 +1,0 @@
-INSERT INTO usuarios (usuario, contraseña, rol) 
-VALUES ('admin', SHA2('123456', 256), 'admin');
